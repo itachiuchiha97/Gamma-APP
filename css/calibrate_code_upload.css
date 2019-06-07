@@ -1,0 +1,30 @@
+#custom-button{
+    align-content: center;
+    padding: 10px;
+    color: white;
+    background-color: rgb(39, 90, 231);
+    border: 1px solid darkblue;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+#custom-button :hover{
+    background-color: violet;
+}
+
+#custom-text{
+    font-family: sans-serif;
+    margin-left: 10px;
+    color: #aaa;
+}
+
+#btn{
+    align-content: center;
+    padding: 10px;
+    color: white;
+    background-color: blueviolet;
+    border: 1px solid darkblue;
+    border-radius: 5px;
+    cursor: pointer;
+}
